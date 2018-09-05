@@ -8,12 +8,6 @@ A list of the papers introducing the most popular advancement in deep learning
 
 ** Convolutional neural networks **
 
-** Recurrent neural networks **
-
-** Autoencoders **
-
-** Boltzman Machines **
-
 
 ## Activation Functions
 
@@ -59,12 +53,3 @@ A list of the papers introducing the most popular advancement in deep learning
 **  **
 
 **  **
-
-
-## Unsupervized Pre-training
-
-** autoencoders **
-
-** RBMs **
-
-** DBM **
