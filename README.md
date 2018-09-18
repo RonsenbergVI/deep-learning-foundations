@@ -23,7 +23,6 @@ These are the papers that I consider paramount to read and understand as they pr
 
 ** alpha-Relu **
 
-#### ELU
 **Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs)**, Djork-Arné Clevert, Thomas Unterthiner, Sepp Hochreiter (2016) [[pdf]](https://arxiv.org/pdf/1511.07289).
 
 
@@ -31,7 +30,6 @@ These are the papers that I consider paramount to read and understand as they pr
 
 ** Stochastic Gradient Descent **
 
-#### Adam
 **Adam: A Method for Stochastic Optimization**, Diederik P. Kingma, Jimmy Ba (2014) [[pdf]](http://arxiv.org/abs/1412.6980)
 
 ** Adagrad **
@@ -45,11 +43,9 @@ These are the papers that I consider paramount to read and understand as they pr
 
 ## Regularization
 
-#### Dropout
 **Dropout: A Simple Way to Prevent Neural Networks from Overfitting**, Nitish Srivastava, Geoffrey Hinton, Alex Krizhevsky
 Ilya Sutskever, Ruslan Salakhutdinov (2014) [[pdf]](http://jmlr.org/papers/volume15/srivastava14a.old/srivastava14a.pdf)
 
-#### Batch Normalization
 **Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift**, Sergey Ioffe, Christian Szegedy (2015) [[pdf]](https://arxiv.org/pdf/1502.03167)
 
 ** Gradient Clipping **
