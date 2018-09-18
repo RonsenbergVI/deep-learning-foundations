@@ -50,7 +50,7 @@ These are the papers that I consider paramount to read and understand as they pr
 Ilya Sutskever, Ruslan Salakhutdinov (2014) [[pdf]](http://jmlr.org/papers/volume15/srivastava14a.old/srivastava14a.pdf)
 
 #### Batch Normalization
-**Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift**, Sergey Ioffe, Christian Szegedy (2015) [[pdf]] (https://arxiv.org/pdf/1502.03167)
+**Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift**, Sergey Ioffe, Christian Szegedy (2015) [[pdf]](https://arxiv.org/pdf/1502.03167)
 
 ** Gradient Clipping **
 
