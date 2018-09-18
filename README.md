@@ -1,7 +1,7 @@
 # Deep Learning Foundations
 
 A list of the papers introducing the most popular advancement in deep learning. A list that is curated to only present the essentials, the hit singles of deep learning as we know it if you will. I decided not to include any advanced papers as I consider that they are of little use for beginners and practionners with no interest in advanced research.
-These are the papers that I consider paramount to read and understand as they present the challenges they tried to tackle and as a result gives some insight into neural networks practical uses. 
+These are the papers that I consider paramount to read and understand as they present the challenges they tried to tackle and as a result gives some insight into neural networks practical uses.
 
 
 ## Architectures
@@ -17,7 +17,8 @@ These are the papers that I consider paramount to read and understand as they pr
 
 ** tanh **
 
-** Relu **
+#### Relu
+**Deep sparse rectifier neural networks**, Glorot, Xavier, Antoine Bordes, and Yoshua Bengio (2011) [[pdf]](http://proceedings.mlr.press/v15/glorot11a/glorot11a.pdf)
 
 ** LeakyRelu **
 
@@ -26,7 +27,7 @@ These are the papers that I consider paramount to read and understand as they pr
 **Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs)**, Djork-Arné Clevert, Thomas Unterthiner, Sepp Hochreiter (2016) [[pdf]](https://arxiv.org/pdf/1511.07289).
 
 
-## Gradient Descent 
+## Gradient Descent
 
 ** Stochastic Gradient Descent **
 
