@@ -32,7 +32,7 @@ These are the papers that I consider paramount to read and understand as they pr
 ** Stochastic Gradient Descent **
 
 #### Adam
-
+**Adam: A Method for Stochastic Optimization**, Diederik P. Kingma, Jimmy Ba (2014) [[pdf]](http://arxiv.org/abs/1412.6980)
 
 ** Adagrad **
 
