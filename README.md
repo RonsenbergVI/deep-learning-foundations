@@ -13,33 +13,24 @@ These are the papers that I consider paramount to read and understand as they pr
 
 ## Activation Functions
 
-** Sigmoid **
-
-** tanh **
-
 #### Relu
-**Deep sparse rectifier neural networks**, Glorot, Xavier, Antoine Bordes, and Yoshua Bengio (2011) [[pdf]](http://proceedings.mlr.press/v15/glorot11a/glorot11a.pdf)
+**Deep sparse rectifier neural networks**, Glorot Xavier, Antoine Bordes, and Yoshua Bengio (2011) [[pdf]](http://proceedings.mlr.press/v15/glorot11a/glorot11a.pdf)
 
-** LeakyRelu **
+#### LeakyRelu
+**Rectifier Nonlinearities Improve Neural Network Acoustic Models**  Andrew L. Maas Awni Y. Hannun Andrew Y. Ng (2012) [[pdf]](https://ai.stanford.edu/~amaas/papers/relu_hybrid_icml2013_final.pdf)
 
-** alpha-Relu **
+#### PRelu
+**Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification** Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun (2015) [[pdf]](https://arxiv.org/pdf/1502.01852.pdf)
 
+#### ELU
 **Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs)**, Djork-Arné Clevert, Thomas Unterthiner, Sepp Hochreiter (2016) [[pdf]](https://arxiv.org/pdf/1511.07289).
 
 
 ## Gradient Descent
 
-** Stochastic Gradient Descent **
+**Efficient Backprop** LeCun, Yann A., Léon Bottou, Genevieve B. Orr, and Klaus-Robert Müller (2012) [[pdf]](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
 
 **Adam: A Method for Stochastic Optimization**, Diederik P. Kingma, Jimmy Ba (2014) [[pdf]](http://arxiv.org/abs/1412.6980)
-
-** Adagrad **
-
-** Adadelta **
-
-** RMSProp **
-
-** FTRL **
 
 
 ## Regularization
@@ -48,14 +39,3 @@ These are the papers that I consider paramount to read and understand as they pr
 Ilya Sutskever, Ruslan Salakhutdinov (2014) [[pdf]](http://jmlr.org/papers/volume15/srivastava14a.old/srivastava14a.pdf)
 
 **Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift**, Sergey Ioffe, Christian Szegedy (2015) [[pdf]](https://arxiv.org/pdf/1502.03167)
-
-** Gradient Clipping **
-
-
-## Hyperparamter tuning
-
-**  **
-
-**  **
-
-**  **
