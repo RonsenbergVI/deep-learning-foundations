@@ -28,10 +28,14 @@ These are the papers that I consider paramount to read and understand as they pr
 
 ## Gradient Descent
 
+#### Best practices
 **Efficient Backprop** LeCun, Yann A., Léon Bottou, Genevieve B. Orr, and Klaus-Robert Müller (2012) [[pdf]](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
 
+#### Adam
 **Adam: A Method for Stochastic Optimization**, Diederik P. Kingma, Jimmy Ba (2014) [[pdf]](http://arxiv.org/abs/1412.6980)
 
+#### Follow the regularized leader
+**Ad Click Prediction: a View from the Trenches**, H. Brendan McMahan, Gary Holt, D. Sculley, Michael Young, Dietmar Ebner, Julian Grady, Lan Nie, Todd Phillips, Eugene Davydov, Daniel Golovin, Sharat Chikkerur, Dan Liu, Martin Wattenberg, Arnar Mar Hrafnkelsson, Tom Boulos, Jeremy Kubica (2013) [[pdf]](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41159.pdf)
 
 ## Regularization
 
