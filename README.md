@@ -44,4 +44,4 @@ Ilya Sutskever, Ruslan Salakhutdinov (2014) [[pdf]](http://jmlr.org/papers/volum
 
 **Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift**, Sergey Ioffe, Christian Szegedy (2015) [[pdf]](https://arxiv.org/pdf/1502.03167)
 
-**Overtraining, regularization, and searching for minimum in neural networks**, Sjöberg Jonas, Lennart Ljung (1992) [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.51.298&rep=rep1&type=pdf)
+**Overtraining, regularization, and searching for minimum in neural networks**, Sjöberg Jonas, Lennart Ljung (1992) [[pdf]](https://pdfs.semanticscholar.org/6bb2/8b64d262b6aefae157be03399db08e41307c.pdf)
