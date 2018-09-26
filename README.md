@@ -25,6 +25,10 @@ These are the papers that I consider paramount to read and understand as they pr
 #### ELU
 **Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs)**, Djork-Arné Clevert, Thomas Unterthiner, Sepp Hochreiter (2016) [[pdf]](https://arxiv.org/pdf/1511.07289).
 
+### Review
+**An overview of gradient descent optimization algorithms**, Sebastian Ruder (2016) [[pdf]](https://arxiv.org/pdf/1609.04747.pdf).
+
+
 
 ## Gradient Descent
 
