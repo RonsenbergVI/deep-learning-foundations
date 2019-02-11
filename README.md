@@ -3,6 +3,13 @@
 A list of the papers introducing the most popular advancement in deep learning. A list that is curated to only present the essentials, the hit singles of deep learning as we know it if you will. I decided not to include any advanced papers as I consider that they are of little use for beginners and practionners with no interest in advanced research.
 These are the papers that I consider paramount to read and understand as they present the challenges they tried to tackle and as a result gives some insight into neural networks practical uses.
 
+To download the papers referenced here you need to execute the following commands:
+
+```shell
+git clone https://github.com/RonsenbergVI/deep-learning-foundations.git
+cd deep-learning-foundations-master
+sh run.sh
+```
 
 ## Architectures
 
