@@ -6,13 +6,28 @@ These are the papers that I consider paramount to read and understand as they pr
 
 ## Architectures
 
-#### Feed forward networks
-
-#### Convolutional neural networks
-
-
 #### Generative Adversarial Networks
 **Generative adversarial nets** Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., ... & Bengio, Y. (2014) [[pdf]](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
+
+#### LeNet 5
+**Backpropagation applied to handwritten zip code recognition** Y. LeCun, B. Boser, J. S. Denker, D. Henderson, R. E. Howard, W. Hubbard, and L. D. Jackel. (1989) [[pdf]](http://yann.lecun.com/exdb/publis/pdf/lecun-89e.pdf)
+
+#### AlexNet
+
+**ImageNet classification with deep convolutional neural networks**, Alex Krizhevsky, Ilya Sutskever, and Geoffrey E. Hinton. In Proceedings of the 25th International Conference on Neural Information Processing Systems - Volume 1 (2012) [[pdf]](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf).
+
+#### VGGNet
+
+**Very deep convolutional networks for large-scale image recognition**, K Simonyan, A Zisserman - arXiv preprint arXiv:1409.1556, (2014) [[pdf]](https://arxiv.org/pdf/1409.1556v6.pdf).
+
+
+#### Google LeNet
+
+**Going deeper with convolutions**, Szegedy, Christian, et al., Proceedings of the IEEE conference on computer vision and pattern recognition. (2015) [[pdf]](https://arxiv.org/pdf/1409.4842.pdf).
+
+
+#### Inception V3
+
 
 
 ## Activation Functions
@@ -31,7 +46,6 @@ These are the papers that I consider paramount to read and understand as they pr
 
 ### Review
 **An overview of gradient descent optimization algorithms**, Sebastian Ruder (2016) [[pdf]](https://arxiv.org/pdf/1609.04747.pdf).
-
 
 
 ## Gradient Descent
@@ -64,21 +78,3 @@ Ilya Sutskever, Ruslan Salakhutdinov (2014) [[pdf]](http://jmlr.org/papers/volum
 
 **Overtraining, regularization, and searching for minimum in neural networks**, Sjöberg Jonas, Lennart Ljung (1992) [[pdf]](https://pdfs.semanticscholar.org/6bb2/8b64d262b6aefae157be03399db08e41307c.pdf)
 
-
-## Architectures
-
-#### AlexNet
-
-**ImageNet classification with deep convolutional neural networks**, Alex Krizhevsky, Ilya Sutskever, and Geoffrey E. Hinton. In Proceedings of the 25th International Conference on Neural Information Processing Systems - Volume 1 (2012) [[pdf]](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf).
-
-#### VGGNet
-
-**Very deep convolutional networks for large-scale image recognition**, K Simonyan, A Zisserman - arXiv preprint arXiv:1409.1556, (2014) [[pdf]](https://arxiv.org/pdf/1409.1556v6.pdf).
-
-
-#### Google LeNet
-
-**Going deeper with convolutions**, Szegedy, Christian, et al., Proceedings of the IEEE conference on computer vision and pattern recognition. (2015) [[pdf]](https://arxiv.org/pdf/1409.4842.pdf).
-
-
-#### Inception V3
