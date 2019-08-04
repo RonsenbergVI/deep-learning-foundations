@@ -84,3 +84,5 @@ Ilya Sutskever, Ruslan Salakhutdinov (2014) [[pdf]](http://jmlr.org/papers/volum
 
 **Overtraining, regularization, and searching for minimum in neural networks**, Sjöberg Jonas, Lennart Ljung (1992) [[pdf]](https://pdfs.semanticscholar.org/6bb2/8b64d262b6aefae157be03399db08e41307c.pdf)
 
+**Regularization of neural networks using dropconnect** Wan L, Zeiler M, Zhang S, Le Cun Y, Fergus R. (2013) [[pdf]](http://proceedings.mlr.press/v28/wan13.pdf)
+
