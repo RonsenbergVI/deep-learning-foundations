@@ -6,9 +6,13 @@ These are the papers that I consider paramount to read and understand as they pr
 
 ## Architectures
 
-** Feed forward networks **
+#### Feed forward networks
 
-** Convolutional neural networks **
+#### Convolutional neural networks
+
+
+#### Generative Adversarial Networks
+**Generative adversarial nets** Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., ... & Bengio, Y. (2014) [[pdf]](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
 
 
 ## Activation Functions
