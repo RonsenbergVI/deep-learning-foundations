@@ -25,9 +25,15 @@ These are the papers that I consider paramount to read and understand as they pr
 
 **Going deeper with convolutions**, Szegedy, Christian, et al., Proceedings of the IEEE conference on computer vision and pattern recognition. (2015) [[pdf]](https://arxiv.org/pdf/1409.4842.pdf).
 
+#### ResNet
 
-#### Inception V3
+**Deep residual learning for image recognition** He, Kaiming, Xiangyu Zhang, Shaoqing Ren, and Jian Sun (2016) [[pdf]](http://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
+#### Inception V2 & V3
+**Rethinking the inception architecture for computer vision** Szegedy, Christian, Vincent Vanhoucke, Sergey Ioffe, Jon Shlens, and Zbigniew Wojna. (2016) [[pdf]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Szegedy_Rethinking_the_Inception_CVPR_2016_paper.pdf)
+
+#### Inception V4
+**Inception-v4, inception-resnet and the impact of residual connections on learning** Szegedy, Christian, Sergey Ioffe, Vincent Vanhoucke, and Alexander A. Alemi (2017) [[pdf]](https://arxiv.org/pdf/1512.00567)
 
 
 ## Activation Functions
