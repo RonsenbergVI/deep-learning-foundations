@@ -86,3 +86,6 @@ Ilya Sutskever, Ruslan Salakhutdinov (2014) [[pdf]](http://jmlr.org/papers/volum
 
 **Regularization of neural networks using dropconnect** Wan L, Zeiler M, Zhang S, Le Cun Y, Fergus R. (2013) [[pdf]](http://proceedings.mlr.press/v28/wan13.pdf)
 
+
+**Layer normalization** Ba, Jimmy Lei, Jamie Ryan Kiros, and Geoffrey E. Hinton. (2013) [[pdf]](https://arxiv.org/pdf/1607.06450.pdf)
+
