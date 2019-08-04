@@ -21,7 +21,7 @@ These are the papers that I consider paramount to read and understand as they pr
 **Very deep convolutional networks for large-scale image recognition**, K Simonyan, A Zisserman - arXiv preprint arXiv:1409.1556, (2014) [[pdf]](https://arxiv.org/pdf/1409.1556v6.pdf).
 
 
-#### Google LeNet
+#### GoogLeNet (Inception V1)
 
 **Going deeper with convolutions**, Szegedy, Christian, et al., Proceedings of the IEEE conference on computer vision and pattern recognition. (2015) [[pdf]](https://arxiv.org/pdf/1409.4842.pdf).
 
